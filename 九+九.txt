@@ -180,6 +180,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
+
+        {
+            "key": "百萬",
+            "name": "🚀1百萬",
+            "type": 1,
+            "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
         {
             "key": "8天",
             "name": "🚀8天",

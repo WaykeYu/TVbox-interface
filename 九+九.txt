@@ -552,6 +552,17 @@
             "searchable": 0,
             "quickSearch": 0
         },
+
+        {
+            "key": "*豆瓣资源",
+            "name": "🚀豆瓣",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
         {
             "key": "csp_ROU223",
             "name": "🚀ROU223┃SP",
